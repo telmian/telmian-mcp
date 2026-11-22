@@ -3,12 +3,16 @@
   "name": "com.telmian/sms",
   "title": "Telmian SMS",
   "description": "SMS for apps built with AI: OTP codes, reminders, two-way texts to 44 European countries.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://telmian.com",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://app.telmian.com/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/telmian/telmian-mcp",
+    "source": "github"
+  }
 }
