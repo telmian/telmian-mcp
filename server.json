@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.telmian/sms",
+  "title": "Telmian SMS",
+  "description": "SMS for apps built with AI: OTP codes, reminders, two-way texts to 44 European countries.",
+  "version": "1.0.0",
+  "websiteUrl": "https://telmian.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.telmian.com/mcp"
+    }
+  ]
+}
