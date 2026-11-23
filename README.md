@@ -1,5 +1,7 @@
 # Telmian MCP server
 
+[![mcptry](https://mcptry.com/badge/com.telmian/sms)](https://mcptry.com/servers/com.telmian/sms)
+
 **SMS for apps you build with AI.** Connect your AI coding assistant to Telmian and ask it to add phone
 verification (OTP), reminders, order updates or two-way SMS to your app. It sets up the key, the templates
 and a free test for you.
